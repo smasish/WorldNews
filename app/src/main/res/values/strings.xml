@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">World News</string>
+
+    <string name="add">Add</string>
+    <string name="quit">Quit</string>
+    <string name="about">About</string>
+
+    <!--App ID: ca-app-pub-2884225447516609~3642982773-->
+    <string name="ad_id_interstitial">ca-app-pub-2884225447516609/5119715979</string>
+    <string name="ad_id_banner">ca-app-pub-2884225447516609/5119715979</string>
+
+
+</resources>
